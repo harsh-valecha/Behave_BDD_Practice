@@ -6,6 +6,8 @@ The Following Repository contains basic scripts to understand behavior driven te
 1. Behave (Python alternative of cucumber)
 2. pytest (testing module for python)
 3. pytest-html (HTML Reporting Tool)
+4. selenium (for web automation)
+5. playwright (for web automation)
 
 #### Running Pytest testcases - 
 ```
